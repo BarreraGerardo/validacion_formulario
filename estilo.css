@@ -1,0 +1,48 @@
+body{
+    font-family: helvetica;
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+}
+.negritas{
+font-weight: bold;
+}
+.ancho{
+max-width: 1200px;
+margin:auto;
+border: 1px red solid;
+}
+.margen{
+padding: 15px;
+}
+.subrayado{
+text-decoration: underline;
+color: red
+}
+.centrar{
+text-align: center;
+}
+.elemento1{
+    padding:10px;
+    border-radius: 10px;
+    max-width: 500px;
+}
+.elemento2{
+    max-width: 300px;
+    border: 3px #ececec solid;
+    border-radius: 40px;
+    padding: 10px;
+}
+.btn_rojo{
+    background-color: #800000;
+    color: white;
+    border-radius:  40px;
+    border: 0;
+    padding: 10px 30px;
+}
+.actividades{
+    margin-left: 20px;
+}
+.idioma_ingles{
+    margin-left: 20px;
+}
